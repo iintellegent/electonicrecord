@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'electronicrecordConnection',
         'USER':  'root',
-        'PASSWORD':  '12345678',
+        'PASSWORD':  '123Qwerty!',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
